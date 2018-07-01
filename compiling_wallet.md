@@ -1,7 +1,7 @@
 # Guides wallet compiling
 
 
-## Before starting make sure your machine is ready for compiling the files:
+## Before you start make sure the machine is ready for compiling the files:
 
 $ sudo apt-get update
 
