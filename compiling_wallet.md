@@ -12,15 +12,15 @@ $ sudo apt-get install build-essential git cmake libboost-all-dev python make au
 
 # Step 1
 
-$ git clone https://github.com/scordite/scordite.git  // This will download the scordite rep
+$ git clone https://github.com/scordite/scordite.git  //This will download the scordite rep
 
-$ ls                                                  // Will show the content of the folder you are in
+$ ls                                                  //Will show the content of the folder you are in
 
-$ cd scordite                                         // Enter scordite folder
+$ cd scordite                                         //Enter scordite folder
 
-$ ls                                                  // Will show the content of the folder you are in 
+$ ls                                                  //Will show the content of the folder you are in 
 
-$ make                                                // start compiling
+$ make                                                //start compiling
 
 
 # Wait for the wallet to compile
