@@ -28,7 +28,9 @@ $ make
 # Step 2
 
 $ cd build
+
 $ cd release
+
 $ cd src
 
 
