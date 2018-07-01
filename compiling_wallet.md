@@ -4,6 +4,7 @@
 # Before starting make sure your machine is ready for compiling the files:
 
 $ sudo apt-get update
+
 $ sudo apt-get install build-essential git cmake libboost-all-dev python make automake g++ gcc
 
 
