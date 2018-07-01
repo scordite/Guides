@@ -33,6 +33,6 @@ $ cd release
 
 $ cd src
 
-
 $ ls
+
 $ ./simplewallet
