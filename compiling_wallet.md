@@ -1,7 +1,7 @@
-# Guides wallet compiling
+# Guide - wallet compiling
 
 
-## Before you start make sure the machine is ready for compiling the files:
+## Before you start make sure your machine is ready for compiling the files:
 
 $ sudo apt-get update
 
@@ -10,11 +10,11 @@ $ sudo apt-get install build-essential git cmake libboost-all-dev python make au
 
 
 
-# Step 1: Compiling and starting your wallet with the following steps
+# Step 1: Compile and start your wallet with the following steps
 
 $ git clone https://github.com/scordite/scordite.git  
 
-$ ls                                                  
+$ ls                                                                  
 
 $ cd scordite                                         
 
@@ -27,7 +27,7 @@ $ make
 
 # Step 2: Enter the compiled folder and start the wallet
 
-$ cd build
+$ cd build            
 
 $ cd release
 
