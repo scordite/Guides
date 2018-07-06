@@ -3,6 +3,7 @@
 
 ## Before you start make sure your machine is ready for compiling the files:
 
+
 $ sudo apt-get update
 
 $ sudo apt-get install build-essential git cmake libboost-all-dev python make automake g++ gcc
@@ -13,26 +14,25 @@ $ sudo apt-get install build-essential git cmake libboost-all-dev python make au
 # Step 1: Compile and start your wallet with the following steps
 
 $ git clone https://github.com/scordite/scordite.git  
-
-$ ls                                                                  
-
-$ cd scordite                                         
-
-$ ls                                                  
+                                                                 
+$ cd scordite                                                                                         
 
 $ make                                                
 
 
 ## Wait for the wallet to compile
 
+
 # Step 2: Enter the compiled folder and start the wallet
+
+$ cd
+
+$ cd scordite
 
 $ cd build            
 
 $ cd release
 
 $ cd src
-
-$ ls
 
 $ ./simplewallet
