@@ -11,7 +11,7 @@ $ sudo apt-get install build-essential git cmake libboost-all-dev python make au
 
 
 
-# Step 1: Compile and start your wallet with the following steps
+# Step 1: Build and start your wallet with the following steps
 
 $ git clone https://github.com/scordite/scordite.git  
                                                                  
@@ -20,7 +20,7 @@ $ cd scordite
 $ make                                                
 
 
-## Wait for the wallet to compile
+## Wait for the wallet to finish
 
 
 # Step 2: Enter the compiled folder and start the wallet
