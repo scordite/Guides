@@ -6,7 +6,7 @@
 
 Install the following tools on your device:
 
-  - Cmake https://cmake.org/download/)
+  - Cmake https://cmake.org/download/
   - MCVS https://visualstudio.microsoft.com/de/downloads/
   - boost https://www.boost.org/users/download/
 
