@@ -14,25 +14,24 @@ Install the following tools on your device:
 
 # Step 1: Build your wallet with the following steps
 
- 1. Download Repo
-> git clone https://github.com/scordite/scordite.git
-> unzip it
+ ##### 1. Download Repo
+- https://github.com/scordite/scordite.git
+- unzip it
 
 
-2. Open Cmake
-> search for download location of "git clone https://github.com/scordite/scordite.git"
-> open folder
-> press "configure" (if no autostart)
-	
-	> wait
-
-> press "generate"
-> press "open project"
+##### 2. Cmake
+- open Cmake
+- open Scordite folder
+- press "configure" (if no autostart)
+- press "generate"
+- press "open project"
 
 
-3. Visual Studio
-> Release x64
-> Project-Explorer -> right-click "ALL_BUILD" -> BUILD
+##### 3. Visual Studio
+- Make sure it's set for Release x64
+- Project-Explorer -> right-click "*ALL_BUILD*" -> BUILD
+
+*Wait for Visual Code to finish the build.*
 
 
 # Step 4: Enter the release folder and start the daemon.
