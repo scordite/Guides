@@ -15,7 +15,7 @@ Install the following tools on your device:
 # Step 1: Build your wallet with the following steps
 
  ##### 1. Download Repo
-- https://github.com/scordite/scordite.git
+- download https://github.com/scordite/scordite.git
 - unzip it
 
 
