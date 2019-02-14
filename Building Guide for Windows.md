@@ -22,6 +22,7 @@ Install the following tools on your device:
 ##### 2. Cmake
 - open Cmake
 - open Scordite folder
+- select output folder
 - press "configure" (if no autostart)
 - press "generate"
 - press "open project"
