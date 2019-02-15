@@ -1,4 +1,4 @@
-Here you will find some Scordite related guides
+#### Guide Section
 
 # Guides
 -Compiling/Building Guide for Linux
